@@ -1,6 +1,4 @@
-As a customer, I want to 
-As a customer, I want to
-As a relationship manager, I want to
-As a relationship manager, I want to
-As an employee, I want to
-As an employee, I want to
+As a customer, I want to have a customer profile and descriptions, so that the travel company can assist and allocate me to the product (travel package) desired.
+As a relationship manager, I want to have an improved call flow rate so that I can assist and convince the end-customer effectively which will increase the chance to reach sales
+As an hr manager, I want to have a profile and a skill matrix of each of the employees so that I can have the datas of each employees capabilities and allocate them to where their skills are needed
+As a system developer, I want to create a new skill matcher system so that it lets the RMs and the end-customers match with each other based on their profile
