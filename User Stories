@@ -1,9 +1,35 @@
+#101
 As a customer, I want to have a customer profile and descriptions, so that the travel company can assist and allocate me to the product (travel package) desired.
-As a relationship manager, I want to have an improved call flow rate so that I can assist and convince the end-customer effectively which will increase the chance to reach sales
-As an hr manager, I want to have a profile and a skill matrix of each of the employees so that I can have the datas of each employees capabilities and allocate them to where their skills are needed
-As a system developer, I want to create a new skill matcher system so that it lets the RMs and the end-customers match with each other based on their profile
-As a customer, I want to have the call between the travel company to go without any resistance, so that the call conversation for me would be easy and quick
-As a company owner, I want a newly improved call flow rate to be improved at a lower cost, so that the company does not have many non-essential recurring costs
-As a system developer, I want to create a score generator from 1-10 depending on their likelihood to purchase the services in the inbound calls, so that the customer with higher score can be served first
-As a business analyst, I want an improved data analysis system that generates quick and accurate information about the company’s overall financials and operations, so that the company owner and I can make clear decision and judgement
-As a company owner, I want operational within the travel company to be improved so that the company can receive more revenue and mitigate the current issue
+Est: 4 	Imp: High
+
+#102
+As an HR manager, I want to have a profile and a skill matrix of each of the employees so that I can have the data of each employee's capabilities and allocate them to where their skills are needed.
+Est: 3	Imp: Medium 
+
+#103
+As a system developer, I want to create a new skill matcher system so that it lets the RMs and the end-customers match with each other based on their profile.
+Est: 5	Imp: High 
+
+#104
+As a system developer, I want to create a score generator from 1-10 depending on their likelihood to purchase the services in the inbound calls, so that the customer with a higher score can be served first.
+Est: 3	Imp: Medium 
+
+#201
+As a relationship manager, I want to have an improved call flow rate so that I can assist and convince the end-customer effectively which will increase the chance to reach sales.
+Est: 6	Imp: High 
+
+#202
+As a customer, I want to have the call between the travel company to go without any resistance, so that the call conversation for me would be easy and quick.
+Est: 2	Imp: Medium 
+
+#301
+As a business analyst, I want an improved data analysis system that generates quick and accurate information about the company’s overall financials and operations, so that the company owner and I can make clear decisions and judgement.
+Est: 7	Imp: High 
+
+#302
+As a company owner, I want operations within the travel company to be improved so that the company can receive more revenue and mitigate the current issue.
+Est: 5	Imp: High 
+
+#303
+As a company owner, I want a newly improved call flow rate to be improved at a lower cost, so that the company does not have many non-essential recurring costs.
+Est: 6	Imp: Medium 
