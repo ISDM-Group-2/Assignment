@@ -1,4 +1,4 @@
-#POV (Point of View Statement)
+# POV (Point of View Statement)
 
 User  | Need  | Insight
 ----  | ----  | -------
@@ -13,4 +13,6 @@ We Met  | We Were Surprised To Notice | We Wonder If This Means | It Would Be Ga
 an Employee who specialises in customer service | the call centre couldn't keep up with the call rate | employees are serving customers out of their expertise  | identify a customer's wants so they can be better served
 a Relationship Manager  | 
 
-#HMW (How Might We)
+# HMW (How Might We)
+
+How might we ensure relationship managers are serving suitable customers
