@@ -14,11 +14,12 @@ An employee who specialises in customer service | He said customer feedback says
 A relationship Manager  | He struggles to serve certain customers | He doesn't know enough about the customer's wants to serve them properly  | To provide a customer's wants and information to the serving RM
 An existing customer  | The customer's want for a profile | There is a lack of understanding of customers' needs  | To understand a customers' needs prior to interaction
 The company owner | 
-A system developer  | He's focus on the call flow rate  | There is customer dissatisfaction | Manage calls to enable a faster call flow rate
+A system developer  | His focus on the call flow rate  | There is a loss of revenue | Manage calls to enable a faster call flow rate
 
 # HMW (How Might We)
 
 * How might we ensure relationship managers are serving suitable customers?
-* How might we provide RMs with appriopraite customer information?
+* How might we provide RMs with appriopraite resources such as customer information?
 * How might we better serve customers?
-* How might we gather customers' needs?
+* How might we have an understanding of customers' needs before interacting?
+* How might we
