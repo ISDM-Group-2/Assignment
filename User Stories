@@ -34,3 +34,7 @@ Est: 5	Imp: High
 #303
 As a company owner, I want a newly improved call flow rate to be improved at a lower cost, so that the company does not have many non-essential recurring costs.
 Est: 6	Imp: Medium 
+
+#401
+As RM I want to be able to call customers based on my skill set and the customers desires.
+Est: 9  Imp: High
