@@ -18,10 +18,13 @@ Est: 3	Imp: Medium
 As a relationship manager, I want to have an improved call flow rate so that I can assist and convince the end-customer effectively which will increase the chance to reach sales.
 Est: 6	Imp: High 
 
-
 #202
 As a customer, I want to have the call between the travel company to go without any resistance, so that the call conversation for me would be easy and quick.
 Est: 2	Imp: Medium 
+
+#203
+As RM I want to be able to call customers based on my skill set and the customers desires.
+Est: 9  Imp: High
 
 #301
 As a business analyst, I want an improved data analysis system that generates quick and accurate information about the company’s overall financials and operations, so that the company owner and I can make clear decisions and judgement.
@@ -35,6 +38,4 @@ Est: 5	Imp: High
 As a company owner, I want a newly improved call flow rate to be improved at a lower cost, so that the company does not have many non-essential recurring costs.
 Est: 6	Imp: Medium 
 
-#401
-As RM I want to be able to call customers based on my skill set and the customers desires.
-Est: 9  Imp: High
+
