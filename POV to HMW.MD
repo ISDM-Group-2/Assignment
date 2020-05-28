@@ -16,7 +16,7 @@ ID  | We met  | We were surprised to notice | We wonder if this means | It would
 1 | An employee who specialises in customer service | He said customer feedback says they often felt like they were directed to the wrong person  | RMs are serving customers out of their expertise  | Identify a customer's wants so they can be directed to a suitable RM
 2 | A relationship Manager  | He struggles to serve certain customers | He doesn't know enough about the customer's wants to serve them properly  | To provide a customer's wants and information to the serving RM
 3 | An existing customer  | The customer's want for a profile | There is a lack of understanding of customers' needs  | To understand a customers' needs prior to interaction
-4 | The company owner | 
+4 | The company owner | The concern placed on lost revenue  | There are large telephony overheads due to poor call flow rate management | To minimise per call handling time
 5 | A system developer  | His focus on the call flow rate  | There is a loss of revenue | Manage calls to enable a faster call flow rate
 6 | A HR Manager  | The lack of employee information available to him | Employees are being assigned to tasks on availability and not skills  | To enable HR Managers to assign tasks based on employee skills
 
