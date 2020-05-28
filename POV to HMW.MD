@@ -22,9 +22,9 @@ ID  | We met  | We were surprised to notice | We wonder if this means | It would
 
 # HMW
 
-* How might we ensure relationship managers are serving suitable customers?
-* How might we provide RMs with appriopraite resources such as customer information?
-* How might we better serve customers?
-* How might we have an understanding of customers' needs before interacting?
-* How might we ensure employees are allocated tasks within their expertise?
-* How might we ensure the continued allocation of tasks over time?
+1. How might we ensure relationship managers are serving suitable customers?
+2. How might we provide RMs with appriopraite resources such as customer information?
+3. How might we store and use customer information to provide an improved service?
+4. How might we reduce per-call handling?
+5. How might we ensure an appropriate call flow rate ?
+6. How might we ensure employees are allocated tasks within their expertise after initial hire and over time?
