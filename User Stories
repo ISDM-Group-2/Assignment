@@ -1,36 +1,45 @@
+Profiling
 #101
-As a customer, I want to have a customer profile and descriptions, so that the travel company can assist and allocate me to the product (travel package) desired.
+As a customer, I want to have a customer profile and descriptions, so that the travel company can adequately meet my needs with their service.
 Est: 4 	Imp: High
 
 #102
-As an HR manager, I want to have a profile and a skill matrix of each of the employees therefore I can allocate the employees to optimised tasks that correlate with their skill
+As an HR manager, I want to have a profile and a skill matrix of each of the employees, so that I can allocate the employees to optimised tasks that correlate with their skill
 Est: 3	Imp: Medium 
 
 #103
-As a system developer, I want to create a new skill matcher system so that it lets the RMs and the end-customers match with each other based on their profile.
+As a system developer, I want a skill matcher, so that RMs and end-customers can be matched with each other based on their profile.
 Est: 5	Imp: High 
 
 #104
-As a system developer, I want to create a score generator from 1-10 depending on their likelihood to purchase the services in the inbound calls, so that the customer with a higher score can be served first.
+As a system developer, I want a customer score(1-10) depending on their likelihood to purchase the services in the inbound calls, so that the customer with a higher score can be served first.
 Est: 3	Imp: Medium 
 
+#105
+As a system developer, I want a RM skill score to be calculated based on an RM's previous call duration and profile, so that customers can be easily matched to suitable RMs 
+Est: Imp:
+
+Inbound
 #201
-As a relationship manager, I want to have an improved call flow rate so that I can assist and convince the end-customer effectively which will increase the chance to reach sales.
+As a relationship manager, I want to have an improved call flow rate, so that I can assist more end-customers and make more sales.
 Est: 6	Imp: High 
 
-
 #202
-As a customer, I want to have the call between the travel company to go without any resistance, so that the call conversation for me would be easy and quick.
-Est: 2	Imp: Medium 
+As a customer, I want to speak with an RM with the appropriate knowledge and resources, so that the call conversation for me would be easy and quick.
+Est: 2	Imp: Medium
 
+#203
+As a relationship manager, I want to speak with customers that I have the appropriate knowledge and resources to serve, so that I can adequately meet their needs.
+Est: Imp:
+
+#204
+As a customer, I want to be directed to an interactive voice response unit when lines are too busy, so that I can get optionns to be best served.
+Est: Imp:
+
+Outbound
 #301
-As a business analyst, I want an improved data analysis system that generates quick and accurate information about the company’s overall financials and operations, so that the company owner and I can make clear decisions and judgement.
-Est: 7	Imp: High 
+As relationship manager, I want a personalised customer target list based on my skill set and the customer's desires, so that I can adequately meet the customer's needs.
+Est: 9  Imp: High
 
-#302
-As a company owner, I want operations within the travel company to be improved so that the company can receive more revenue and mitigate the current issue.
-Est: 5	Imp: High 
 
-#303
-As a company owner, I want a newly improved call flow rate to be improved at a lower cost, so that the company does not have many non-essential recurring costs.
-Est: 6	Imp: Medium 
+
