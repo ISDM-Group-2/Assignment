@@ -30,16 +30,21 @@ Est: 2	Imp: Medium
 
 #203
 As a relationship manager, I want to speak with customers that I have the appropriate knowledge and resources to serve, so that I can adequately meet their needs.
-Est: Imp:
+Est:6   Imp: High
 
 #204
 As a customer, I want to be directed to an interactive voice response unit when lines are too busy, so that I can get optionns to be best served.
-Est: Imp:
+Est:5   Imp: Medium
 
 Outbound
 #301
 As relationship manager, I want a personalised customer target list based on my skill set and the customer's desires, so that I can adequately meet the customer's needs.
-Est: 9  Imp: High
+Est: 7  Imp: High
 
+#302
+As a relationship manager, I want customer details displayed to me, so that I can effectively serve the end-customer with accurate information that aligns with their needs.
+Est:5   Imp: Medium
 
-
+#303
+As a HR manager, I want a guideline and script to be available for RMs during outbound calls, so that they can provide an improved service to the end-customer.
+Est:4   Imp: Medium
