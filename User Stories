@@ -41,5 +41,11 @@ Outbound
 As relationship manager, I want a personalised customer target list based on my skill set and the customer's desires, so that I can adequately meet the customer's needs.
 Est: 9  Imp: High
 
+#302
+As a relationship manager, I want customer details displayed to me, so that I can effectively serve the end-customer with accurate information that aligns with their needs.
+Est: Imp:
 
+#303
+As a HR manager, I want a guideline and script to be available for RMs during outbound calls, so that they can provide an improved service to the end-customer.
+Est: Imp:
 
